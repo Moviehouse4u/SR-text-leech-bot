@@ -1,7 +1,7 @@
 {
     "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
     "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-    "logo": "https://graph.org/file/f12a07e9ed8dc349da2e7.jpg",
+    "logo": "https://graph.org/file/331454c2caedb0a2a3316.jpg",
     "keywords": [
         "text-video",
         "video-extract",
@@ -12,19 +12,19 @@
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "25216035",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "49f43d961586a02803de09571b345eb2",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "7353698989:AAGH-yqxXXfrCackrxlVYunop6LBtOQlPWY",
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "6930964788",
             "required": true
         },
         "SUDO_USERS": {
@@ -38,7 +38,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/AshutoshGoswami24/Ashutosh-Goswami-heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/Moviehouse4u/SR-text-leech-bot"
         }
     ]
     }
